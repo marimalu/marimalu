@@ -3,12 +3,11 @@
 - 📚 Currently learning how to survive my academic life
 - 🦄 Besides programming, I also draw & learn new languages
 - 🍰 Ah yes, the best things in world: cats, cake & animated shows
-- 💎 My pronouns are She/Her!
 #
 <div>
   <a href="https://github.com/marimalu">
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=marimalu&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimalu&layout=compact&langs_count=7&theme=ocean_dark"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api?username=marimalu&show_icons=true&theme=blueberry&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marimalu&layout=compact&langs_count=7&theme=blueberry"/>
 </div>
 
 <div style="display: inline_block"><br>
