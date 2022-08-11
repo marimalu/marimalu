@@ -1,6 +1,6 @@
 # Greetings, everyone!✨
 
-- 📚 Currently learning how to survive my academic life
+- 📚 Currently learning: JavaScript
 - 🦄 Besides programming, I also draw & (try to) write
 - 🍰 Ah yes, the best things in world: cats, cakes & animated shows
 - 💬 Languages: Portuguese (native), English and a bit of Japanese
