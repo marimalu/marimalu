@@ -19,3 +19,5 @@
   <img align="center" title="Java" alt="Java" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" title="PHP" alt="PHP" height="36" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
 </div>
+  
+  ![snake gif](https://github.com/marimalu/marimalu/blob/output/github-contribution-grid-snake.svg)
